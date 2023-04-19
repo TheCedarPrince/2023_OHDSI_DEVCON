@@ -1,0 +1,7 @@
+[deps]
+BenchmarkTools = "6e4b80f9-dd63-53aa-95a3-0cdb28fa8baf"
+DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
+HealthSampleData = "b8464e9a-ae38-46a4-977b-86f00930f698"
+Literate = "98b081ad-f1c9-55d3-8b20-4c87d4299306"
+OMOPCDMCohortCreator = "f525a15e-a73f-4eef-870f-f901257eae22"
+SQLite = "0aa819cd-b072-5ff4-a722-6bc24af294d9"
